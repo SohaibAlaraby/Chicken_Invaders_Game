@@ -48,7 +48,7 @@ It helped me build a strong foundation in computational thinking, which I later 
 ---
 ## 📷 Preview
 
-<img src="Screenshot Landing Page.png"></img>
+<img src="Chicken_War_Game.png"></img>
 
 ## 📌 Notes
 This project is part of my learning journey and showcases my early experience with programming concepts rather than advanced technologies.
