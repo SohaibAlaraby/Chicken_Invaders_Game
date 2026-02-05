@@ -49,6 +49,11 @@ It helped me build a strong foundation in computational thinking, which I later 
 ## 📷 Preview
 
 <img src="Chicken_War_Game.png"></img>
+[Chicken Invaders Game Play.mp4](https://github.com/user-attachments/assets/851eaa15-de30-4a8b-b805-8b4701f970b8)
+
+
+https://github.com/user-attachments/assets/851eaa15-de30-4a8b-b805-8b4701f970b8
+
 
 ## 📌 Notes
 This project is part of my learning journey and showcases my early experience with programming concepts rather than advanced technologies.
